@@ -1,0 +1,41 @@
+D:\IT\Develope\AdvancedCalc\bin\Release\net5.0-windows\AdvancedCalc.exe
+D:\IT\Develope\AdvancedCalc\bin\Release\net5.0-windows\AdvancedCalc.deps.json
+D:\IT\Develope\AdvancedCalc\bin\Release\net5.0-windows\AdvancedCalc.runtimeconfig.json
+D:\IT\Develope\AdvancedCalc\bin\Release\net5.0-windows\AdvancedCalc.runtimeconfig.dev.json
+D:\IT\Develope\AdvancedCalc\bin\Release\net5.0-windows\AdvancedCalc.dll
+D:\IT\Develope\AdvancedCalc\bin\Release\net5.0-windows\ref\AdvancedCalc.dll
+D:\IT\Develope\AdvancedCalc\bin\Release\net5.0-windows\AdvancedCalc.pdb
+D:\IT\Develope\AdvancedCalc\obj\Release\net5.0-windows\AdvancedCalc.csproj.AssemblyReference.cache
+D:\IT\Develope\AdvancedCalc\obj\Release\net5.0-windows\AdvancedCalc.Form1.resources
+D:\IT\Develope\AdvancedCalc\obj\Release\net5.0-windows\AdvancedCalc.csproj.GenerateResource.cache
+D:\IT\Develope\AdvancedCalc\obj\Release\net5.0-windows\AdvancedCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Develope\AdvancedCalc\obj\Release\net5.0-windows\AdvancedCalc.AssemblyInfoInputs.cache
+D:\IT\Develope\AdvancedCalc\obj\Release\net5.0-windows\AdvancedCalc.AssemblyInfo.cs
+D:\IT\Develope\AdvancedCalc\obj\Release\net5.0-windows\AdvancedCalc.csproj.CoreCompileInputs.cache
+D:\IT\Develope\AdvancedCalc\obj\Release\net5.0-windows\AdvancedCalc.dll
+D:\IT\Develope\AdvancedCalc\obj\Release\net5.0-windows\ref\AdvancedCalc.dll
+D:\IT\Develope\AdvancedCalc\obj\Release\net5.0-windows\AdvancedCalc.pdb
+D:\IT\Develope\AdvancedCalc\obj\Release\net5.0-windows\AdvancedCalc.genruntimeconfig.cache
+D:\IT\Develope\AdvancedCalc\obj\Release\net5.0-windows\AdvancedCalc.Properties.Resources.resources
+D:\IT\Develope\AdvancedCalc ver 3\bin\Release\net5.0-windows\AdvancedCalc.exe
+D:\IT\Develope\AdvancedCalc ver 3\bin\Release\net5.0-windows\AdvancedCalc.deps.json
+D:\IT\Develope\AdvancedCalc ver 3\bin\Release\net5.0-windows\AdvancedCalc.runtimeconfig.json
+D:\IT\Develope\AdvancedCalc ver 3\bin\Release\net5.0-windows\AdvancedCalc.runtimeconfig.dev.json
+D:\IT\Develope\AdvancedCalc ver 3\bin\Release\net5.0-windows\AdvancedCalc.dll
+D:\IT\Develope\AdvancedCalc ver 3\bin\Release\net5.0-windows\ref\AdvancedCalc.dll
+D:\IT\Develope\AdvancedCalc ver 3\bin\Release\net5.0-windows\AdvancedCalc.pdb
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\AdvancedCalc.csproj.AssemblyReference.cache
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\AdvancedCalc.Form1.resources
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\AdvancedCalc.frmEqua2.resources
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\AdvancedCalc.frmEqua3.resources
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\AdvancedCalc.frmQua.resources
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\AdvancedCalc.Properties.Resources.resources
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\AdvancedCalc.csproj.GenerateResource.cache
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\AdvancedCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\AdvancedCalc.AssemblyInfoInputs.cache
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\AdvancedCalc.AssemblyInfo.cs
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\AdvancedCalc.csproj.CoreCompileInputs.cache
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\AdvancedCalc.dll
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\ref\AdvancedCalc.dll
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\AdvancedCalc.pdb
+D:\IT\Develope\AdvancedCalc ver 3\obj\Release\net5.0-windows\AdvancedCalc.genruntimeconfig.cache

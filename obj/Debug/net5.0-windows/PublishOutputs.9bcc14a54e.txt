@@ -1,0 +1,5 @@
+D:\IT\Develope_product\AdvancedCalc.exe
+D:\IT\Develope_product\AdvancedCalc.dll
+D:\IT\Develope_product\AdvancedCalc.deps.json
+D:\IT\Develope_product\AdvancedCalc.runtimeconfig.json
+D:\IT\Develope_product\AdvancedCalc.pdb
